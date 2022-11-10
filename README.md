@@ -11,7 +11,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | Η ομάδα μου: https://github.com/team-132 | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | Το βίντεο εκτέλεσης εντολών https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολής weather https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d| Βίντεο εκτέλεσης εντολής news https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF|  
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολής getweather https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d| Βίντεο εκτέλεσης εντολής getnews https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF|  
 
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
