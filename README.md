@@ -11,9 +11,9 @@ GitHub Link: https://github.com/Stergioulas
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | Η ομάδα μου: https://github.com/team-132 | |
-| 2 | Άσκηση γραμμής εντολών (linux install) | Το βίντεο εκτέλεσης της εντολής neofetch https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF | |
+| 2 | Άσκηση γραμμής εντολών (linux install) | | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | Βίντεο εκτέλεσης εντολής getweather https://asciinema.org/a/2Wuin4jRnaue0mcLNc9QGMe9d| Βίντεο εκτέλεσης εντολής getnews https://asciinema.org/a/QXcPzTJ2ITuFg3McjVDMuHLXF|  
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |  
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -22,24 +22,6 @@ GitHub Link: https://github.com/Stergioulas
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
-
-## Εισαγωγή 
-Απο το μάθημα 'Επικοινωνία Ανθρώπου-Υπολογιστή' προσδοκώ να αποκομοίσω γνώσεις σχετικά με τη χρήση και λειτουργία του github και πως μπορώ να το χρησημοποιώ όσο το δυνατόν καλύτερα με το μεγαλύτερο δυνατό όφελος, καθώς επίσης και να αποκτήσω γνώσεις σχετικά με τους τρόπους με τους οποίους έχει τη δυνατότητα ο άνθρωπος να επικοινωνεί με τον υπολογιστή.
-
-# Συμμετοχικό Περιεχόμενο 1Α
-## Apple Watch 
-### Link Images:
-https://github.com/team-132/images/blob/master/apple-watch-series-4.png
-https://github.com/team-132/images/blob/master/apple-watch-series-4-thumb.png
-### Link Gallery:
-https://github.com/team-132/_gallery/blob/master/apple-watch.md
-## xBox
-### Link Images:
-https://github.com/team-132/images/blob/master/xbox-one.jpg
-https://github.com/team-132/images/blob/master/xbox-one-thumb.jpg
-### Link Gallery:
-https://github.com/team-132/_gallery/blob/master/xbox.md
-
 
 
 >> Η συμπλήρωση της εβδομάδας ορίζεται ως η μέρα πριν το επόμενο μάθημα, π.χ., για την 1η εβδομάδα η παράδοση είναι την ημέρα πριν το 2ο μάθημα. Η 1η και η 12η εβδομάδα είναι σημαντικές προθεσμίες, γιατί μπορεί να μην αντιστοιχούν σε κάποιο ποσοστό βαθμού, αλλά είναι το σημείο αναφοράς για όλους τους άλλους βαθμούς. Η άσκηση γραμμής εντολών έχει περισσότερες εβδομάδες παραδοτέων για να σας δώσει την ευκαιρία να βελτιώσετε το λειτουργικό σύστημα.
